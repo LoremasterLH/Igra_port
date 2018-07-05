@@ -1,0 +1,11 @@
+melee units 2 types of attack:
+charge	(+1AP)	stays at the spot, if wins		if attacking archers, they shoot, while troops are retreating
+skirmish(+1ar)	retreats back regardless of result	archers shoot, reduced damage
+
+if you defeat a player you get all of their remaining units
+OR faction specific
+black: you discover a barrel of poison and order your troops to poison their weapons (+1 ap to active units)
+green: you find a stash of elven bows (+1 range on active ranged units)
+red: cowardly goblins join you
+white: you plunder human armory and equip your troops with new armor (+1 armor to active units)
+

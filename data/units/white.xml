@@ -1,0 +1,134 @@
+﻿<white>
+  <Fortress>
+    <price>-1</price>
+    <text>Base of operations. If it is destroyed, the game ends.</text>
+    <moves>0</moves>
+    <AP>4</AP>
+    <HP>50</HP>
+    <armor>10</armor>
+    <range>2</range>
+    <type>0</type>
+    <image>white0.png</image>
+  </Fortress>
+  <Kmet>
+    <cena>3</cena>
+    <text>Preprosti vojak opremljen s čimer je pač našel. Od njega ni smiselno pričakovati veliko.</text>
+    <premik>2</premik>
+    <napad>1</napad>
+    <zivljenje>2</zivljenje>
+    <oklep>0</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>1</tip>
+    <slika>white1.png</slika>
+  </Kmet>
+  <Kmečki_lokostrelec>
+    <cena>4</cena>
+    <text>Opremljen le s preprostim lokom bo v boju s sovražnikom padel zelo hitro.</text>
+    <premik>2</premik>
+    <napad>1</napad>
+    <zivljenje>1</zivljenje>
+    <oklep>0</oklep>
+    <razdalja_napada>2</razdalja_napada>
+    <tip>2</tip>
+    <slika>white2.png</slika>
+  </Kmečki_lokostrelec>
+  <Kmečka_konjenica>
+    <cena>6</cena>
+    <text>Kmet, ki je s seboj prinesel konja. Zaradi pomanjkanja taščite se premika hitro, vendar bo hitro tudi padel.</text>
+    <premik>3</premik>
+    <napad>2</napad>
+    <zivljenje>1</zivljenje>
+    <oklep>0</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>3</tip>
+    <slika>white3.png</slika>
+  </Kmečka_konjenica>
+  <Lahka_pehota>
+    <cena>9</cena>
+    <text>Bolje opremljeni kot kmetje, vendar proti težkim enotam ne bodo preživeli dolgo.</text>
+    <premik>2</premik>
+    <napad>2</napad>
+    <zivljenje>2</zivljenje>
+    <oklep>1</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>1</tip>
+    <slika>white4.png</slika>
+  </Lahka_pehota>
+  <Lahki_Lokostrelec>
+    <cena>8</cena>
+    <text>Lahki lokostrelci so mojstri v boju na daljavo, a v boju na blizu ne bodo preživeli dolgo.</text>
+    <premik>2</premik>
+    <napad>2</napad>
+    <zivljenje>1</zivljenje>
+    <oklep>0</oklep>
+    <razdalja_napada>3</razdalja_napada>
+    <tip>2</tip>
+    <slika>white5.png</slika>
+  </Lahki_Lokostrelec>
+  <Lahka_konjenica>
+    <cena>9</cena>
+    <text>Lahka konjenica se po hitrosti kosa z kmečko, je pa tudi malo bolj vzdržljiva.</text>
+    <premik>3</premik>
+    <napad>3</napad>
+    <zivljenje>2</zivljenje>
+    <oklep>0</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>3</tip>
+    <slika>white6.png</slika>
+  </Lahka_konjenica>
+  <Težka_pehota>
+    <cena>11</cena>
+    <text>Težka pehota je sestavljena iz najmočnejših bojevnikov. Od njih se pričakuje, da bodo držali nasprotnika v šahu in pustili lokostrelcem opraviti svoje delo.</text>
+    <premik>1</premik>
+    <napad>2</napad>
+    <zivljenje>4</zivljenje>
+    <oklep>2</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>1</tip>
+    <slika>white7.png</slika>
+  </Težka_pehota>
+  <Težki_lokostrelec>
+    <cena>15</cena>
+    <text>Ti lokostrelci so najboljši med najboljšimi. Njihove puščice sejejo grozo kjerkoli pristanejo. Kljub temu, da imajo nekaj treninga v boju na blizu, jih je najbolje držati stran od sovražnika.</text>
+    <premik>1</premik>
+    <napad>3</napad>
+    <zivljenje>2</zivljenje>
+    <oklep>1</oklep>
+    <razdalja_napada>4</razdalja_napada>
+    <tip>2</tip>
+    <slika>white8.png</slika>
+  </Težki_lokostrelec>
+  <Težka_konjenica>
+    <cena>15</cena>
+    <text>Ti konjeniki so zaradi oklepa počasnejši od lahkih, a so tudi bolj smrtonosni, ko dosežejo nasprotnika.</text>
+    <premik>2</premik>
+    <napad>4</napad>
+    <zivljenje>4</zivljenje>
+    <oklep>1</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>3</tip>
+    <slika>white9.png</slika>
+  </Težka_konjenica>
+  <Oven>
+    <cena>20</cena>
+    <text>Ta oklopljen voz je odlično orožje proti nasprotnikovi trdnjavi. Drugih enot ne more napadati, tako da bo brez podpore kar hitro padel.</text>
+    <premik>1</premik>
+    <napad>10</napad>
+    <zivljenje>5</zivljenje>
+    <oklep>2</oklep>
+    <razdalja_napada>1</razdalja_napada>
+    <tip>4</tip>
+    <slika>white10.png</slika>
+  </Oven>
+  <Katapult>
+    <cena>24</cena>
+    <text>Katapulti so odlično orožje proti trdnjavam, drugih enot pa ne morejo napadati, saj so njihovi izstrelki preveč nenatančni in bi lahko pokončali zavezniške enote.</text>
+    <premik>1</premik>
+    <napad>10</napad>
+    <zivljenje>3</zivljenje>
+    <oklep>1</oklep>
+    <razdalja_napada>5</razdalja_napada>
+    <tip>4</tip>
+    <slika>white11.png</slika>
+  </Katapult>
+</white>

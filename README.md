@@ -1,0 +1,1 @@
+Incomplete port of game Igra. Due to several reasons, this version will not be developed further in favor of rewritting it in a not yet chosen game engine. Uploaded mainly as backup.
